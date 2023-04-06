@@ -1,0 +1,13 @@
+node_modules
+node_modules123
+node_modules666
+.DS_Store
+.vscode
+.idea
+.temp
+src/pages/.umi
+./src/pages/.umi
+/src/pages/.umi/
+# r.sh
+# dist
+# /dist/
